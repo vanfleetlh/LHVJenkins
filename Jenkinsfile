@@ -1,5 +1,4 @@
 
-#Hello World Jeinkinsfile
 pipeline {
     agemt none
     stages {
